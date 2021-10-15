@@ -16,6 +16,7 @@ Kindred
 Kogmaw  
 Morgana  
 Rengar  
+Samira  
 Tryndamere   
 Vex  
 Vladimir  
