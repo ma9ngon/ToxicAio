@@ -15,6 +15,7 @@ Khazix
 Kindred  
 Kogmaw  
 Morgana  
+Lux  
 Rengar  
 Samira  
 Tryndamere   
