@@ -11,6 +11,7 @@ Ashe
 Blitzcrank  
 Brand  
 Kassadin  
+Kennen  
 Khazix  
 Kindred  
 Kogmaw  
