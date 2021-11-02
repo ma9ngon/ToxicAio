@@ -16,6 +16,7 @@ Khazix
 Kindred  
 Kogmaw  
 Morgana  
+Lucian  
 Lux  
 Rengar  
 Samira  
