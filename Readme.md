@@ -7,6 +7,7 @@ ToxicAio Discord: https://discord.gg/P9TmC3BwTt
 Currently Supported champions:
 
 Annie  
+Akali  
 Ashe  
 Blitzcrank  
 Brand  
