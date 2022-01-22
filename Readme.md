@@ -26,4 +26,5 @@ Tryndamere
 Vex  
 Vladimir  
 Yone  
+Zeri  
 Ziggs  
