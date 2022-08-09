@@ -6,24 +6,11 @@ Credits To Wafend for His Damage Calculation
 ToxicAio Discord: https://discord.gg/HKnYn9Whus
 Currently Supported champions:
 
-Annie  
-Akali  
-Ashe  
-Blitzcrank  
-Brand  
-Kassadin  
-Kennen  
-Khazix  
-Kindred  
-Kogmaw  
-Morgana  
-Lucian  
-Lux  
-Rengar  
-Samira  
-Tryndamere   
-Vex  
-Vladimir  
-Yone  
-Zeri  
-Ziggs  
+Diana  
+Evelynn  
+Jhin  
+Nilah  
+Olaf  
+Tristana  
+Veigar  
+Xerath  
