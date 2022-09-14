@@ -14,7 +14,7 @@ Jhin
 Kalista  
 Nilah  
 Olaf  
-Tristana 
+Tristana  
 Twitch  
 Veigar  
 Viktor  
