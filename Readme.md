@@ -11,7 +11,8 @@ Cassiopeia
 Evelynn  
 Ezreal  
 Jhin  
-Kalista  
+Kalista 
+LeeSin   
 Nilah  
 Olaf  
 Tristana  
